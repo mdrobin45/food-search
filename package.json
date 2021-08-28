@@ -1,0 +1,17 @@
+{
+  "name": "mealdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "dependencies": {
+    "autoprefixer": "^10.3.3",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build:css": "tailwind build src/css/tailwind.css -o css/tailwind.css"
+  },
+  "author": "",
+  "license": "ISC"
+}
